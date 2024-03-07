@@ -1,4 +1,4 @@
-HIGHER ORDER COMPONENTS (HOC)
+# HIGHER ORDER COMPONENTS (HOC)
 •	HOC are functions that take a component and return a new component with additional props or functionality.
 
 Why do we need Higher Order Components?
